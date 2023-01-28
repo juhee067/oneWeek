@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/oneWeek/static/css/main.dbeca726.css",
+    "main.js": "/oneWeek/static/js/main.33df1ce2.js",
+    "index.html": "/oneWeek/index.html",
+    "main.dbeca726.css.map": "/oneWeek/static/css/main.dbeca726.css.map",
+    "main.33df1ce2.js.map": "/oneWeek/static/js/main.33df1ce2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbeca726.css",
+    "static/js/main.33df1ce2.js"
+  ]
+}
